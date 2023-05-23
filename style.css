@@ -40,7 +40,7 @@ body {
 }
 
 body * {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   color: var(--text-color);
 }
 
@@ -140,7 +140,7 @@ ul li a {
   text-decoration: none;
   font-weight: 500;
 
-  transition:background 0.2s;
+  transition: background 0.2s;
 
 }
 
@@ -172,8 +172,8 @@ ul li a:hover {
 }
 
 #social-links a:hover {
-  background:var(--highlight-color);
-  padding: 16px;
+  background: var(--highlight-color);
+  
 }
 
 footer {
